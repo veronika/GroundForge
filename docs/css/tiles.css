@@ -11,7 +11,7 @@ figcaption img { padding-left: 1em; vertical-align: middle; display: inline-bloc
 fieldset fieldset figure div { height: 222px; }
 #pattern figure { display: inline-block; text-align: center; }
 #pattern figure img { padding-top: 0.5em; }
-#pattern input {width: 5em}
+#definition input {width: 5em}
 #pattern textarea {min-width: 4.5em}
 
 #whiting { padding-bottom: 0.5em; padding-left: 4em; }
