@@ -9,7 +9,7 @@ Current formats
   Again a [rose](https://d-bl.github.io/GroundForge/sheet.html?patch=5831%20-4-7;bricks&patch=-437%2034-7;bricks&patch=4830%20--77;bricks)
   ground as example.
 * **Inkscape plugin template**:  
-  Documented at the bottom of https://tesselacedotcom.wordpress.com//tools/inkscape-extension/  
+  Documented at the bottom of https://tesselacedotcom.wordpress.com/tools/inkscape-extension/  
   rose: https://d-bl.github.io/tesselace-to-gf/tl/3_4_8/rose.txt  
   Three coordinates per stitch and dimensions of the simple tile layout. 
 * **Experimental draft** with a proof of concept on the pricking page:
